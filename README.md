@@ -1,5 +1,5 @@
 # learn-csfml
-learning csfml/ experimenting 
+learning csfml / experimenting 
 I am using only CSFML + C
 
 This is free and unencumbered software released into the public domain.
