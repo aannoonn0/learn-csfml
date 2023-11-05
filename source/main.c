@@ -1,4 +1,4 @@
-#include <SFML/Audio.h>
+#include <stdio.h>
 #include <SFML/Graphics.h>
 
 
