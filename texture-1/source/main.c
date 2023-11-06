@@ -22,6 +22,7 @@ int main()
 	sfClock* clock = sfClock_create();
 	sfTexture *texture = sfTexture_createFromFile("data/dbz-ball.png", NULL);
 	sfSprite* sprite = sfSprite_create();
+	sfRenderWindow_setFramerateLimit(window, 60);
 
 	sfCircleShape_setRadius(circle, CIRCLE_RADIUS);
 	//sfCircleShape_setOutlineThickness(circle, 5);
