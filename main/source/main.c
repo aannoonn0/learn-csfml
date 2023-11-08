@@ -62,4 +62,4 @@ int main()
 	return 0;
 }
 
-//TODO: break the code to functions and new files (.c / .h)
+//TODO: break the code into functions and new files (.c / .h)
