@@ -61,3 +61,5 @@ int main()
 	sfRenderWindow_destroy(window);
 	return 0;
 }
+
+//TODO: break the code to functions and new files (.c / .h)
